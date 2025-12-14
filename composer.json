@@ -1,5 +1,5 @@
 {
-    "name": "slatch/yii2-query-ui",
+    "name": "slatch/yii2-bower-assets",
     "description": "Replace of bower-asset/jquery-ui",
     "keywords": ["yii2", "bower-asset/jquery-ui", "bower", "bower asset", "jquery-ui"],
     "type": "yii2-extension",
@@ -7,6 +7,6 @@
     "provide": {
         "bower-asset/jquery-ui": "*",
         "bower-asset/ace-builds": "*",
-        "bower-asset/eonasdan-bootstrap-datetimepicker"
+        "bower-asset/eonasdan-bootstrap-datetimepicker": "*"
     }
 }
