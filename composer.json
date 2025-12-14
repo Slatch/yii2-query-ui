@@ -5,6 +5,7 @@
     "type": "yii2-extension",
     "license": "MIT",
     "provide": {
-        "bower-asset/jquery-ui": "*"
+        "bower-asset/jquery-ui": "*",
+        "bower-asset/ace-builds": "*"
     }
 }
