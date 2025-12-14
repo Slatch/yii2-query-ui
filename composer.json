@@ -1,0 +1,10 @@
+{
+    "name": "slatch/yii2-query-ui",
+    "description": "Replace of bower-asset/jquery-ui",
+    "keywords": ["yii2", "bower-asset/jquery-ui", "bower", "bower asset", "jquery-ui"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "provide": {
+        "bower-asset/jquery-ui": "*"
+    }
+}
